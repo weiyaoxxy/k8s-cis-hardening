@@ -1,0 +1,11 @@
+# Logs
+*.log
+# Backup files
+*.bak
+# Secrets (NEVER commit!)
+secrets/
+*.pem
+*.key
+# OS generated
+.DS_Store
+Thumbs.db
